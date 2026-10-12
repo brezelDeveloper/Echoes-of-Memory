@@ -1,0 +1,435 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/respin/6000.6.0f1-fa21a270ab12' branch; Version is '6000.6.0f1 (f7f8ed4d1e24) revision 16251117'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-User" at "2026-10-12T21:48:41.3546969Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ko' Physical Memory: 32603 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-12T21:48:41Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW5
+-projectPath
+C:/Users/User/Documents/GitHub/Echoes-of-Memory
+-logFile
+Logs/AssetImportWorkerHW5.log
+-srvPort
+63876
+-parentPid
+41456
+-analyticsCloudUserId
+14569485278761
+-analyticsCloudProjectId
+888cf267-0235-45f2-98a8-16a72ae1c9c2
+-analyticsLocalProjectId
+e2d7da8db17f00b42a82fa537ab0347b
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+e1f489d09f47f84286b85fe35e36cd275a43a99c
+-cbmMachineId
+mrfvYOzc1A1/XzOimfROkIMae8g=
+-licensingIpc
+LicenseClient-User
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/User/Documents/GitHub/Echoes-of-Memory
+C:/Users/User/Documents/GitHub/Echoes-of-Memory
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [31776]  Target information:
+
+Player connection [31776]  * "[IP] 172.30.1.39 [Port] 0 [Flags] 2 [Guid] 3316729147 [EditorId] 3316729147 [Version] 1048832 [Id] WindowsEditor(7,A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [31776]  * "[IP] 172.22.240.1 [Port] 0 [Flags] 2 [Guid] 3316729147 [EditorId] 3316729147 [Version] 1048832 [Id] WindowsEditor(7,A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [31776] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [31776] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 6c45d5bd4e16c8f76907126d0e78ee50
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.51 ms, found 4 plugins.
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Documents/GitHub/Echoes-of-Memory/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3070 Ti (ID=0x2482)
+    Vendor:          NVIDIA
+    VRAM:            8017 MB
+    App VRAM Budget: 7249 MB
+    Driver:          32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001747 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-User"
+[Licensing::IpcConnector] LicenseClient-User channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-User-6000.6.0" at "2026-10-12T21:48:42.2374625Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 27544, path: "C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              a6a74a56789841ae99d64ae67748712b
+  Correlation Id:          f5c77b0eb01f1d1125165dd5522607b5
+  External correlation Id: 2955931239582765344
+  Machine Id:              mrfvYOzc1A1/XzOimfROkIMae8g=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-User-6000.6.0" (connect: 0.00s, validation: 0.00s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-User-6000.6.0-notifications" at "2026-10-12T21:48:42.2428169Z"
+[Licensing::Module] Licensing Background thread has ended after 0.89s
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.428 seconds
+Domain Reload Profiling: 933ms
+	BeginReloadAssembly (124ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (296ms)
+		LoadAssemblies (120ms)
+		TypeCache.Refresh (200ms)
+			TypeCache.ScanAssembly (188ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (429ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (95ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (153ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 14569485278761-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.606 seconds
+Domain Reload Profiling: 1377ms
+	BeginReloadAssembly (182ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (513ms)
+		LoadAssemblies (289ms)
+		TypeCache.Refresh (136ms)
+			TypeCache.ScanAssembly (123ms)
+		AnalyzeDomain (58ms)
+			BuildScriptInfoCaches (53ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (607ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (228ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6581 unused Assets / (7.6 MB). Loaded Objects now: 7499.
+Memory consumption went from 348.2 MB to 340.6 MB.
+Total: 6.966700 ms (FindLiveObjects: 0.975700 ms CreateObjectMapping: 0.354800 ms MarkObjects: 4.138500 ms  DeleteObjects: 1.222400 ms)
+
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6563 unused Assets / (5.9 MB). Loaded Objects now: 7494.
+Memory consumption went from 345.6 MB to 339.7 MB.
+Total: 7.641300 ms (FindLiveObjects: 1.080700 ms CreateObjectMapping: 0.399200 ms MarkObjects: 4.589400 ms  DeleteObjects: 1.312600 ms)
+
+Prepare: number of updated asset objects reloaded= 2
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.707 seconds
+Domain Reload Profiling: 1568ms
+	BeginReloadAssembly (216ms)
+		DisableScriptedObjects (8ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (566ms)
+		LoadAssemblies (337ms)
+		TypeCache.Refresh (12ms)
+		AnalyzeDomain (165ms)
+			BuildScriptInfoCaches (159ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (708ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (233ms)
+			ProcessInitializeOnLoadMethodAttributes (85ms)
+			AfterProcessingInitializeOnLoad (6ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6574 unused Assets / (6.7 MB). Loaded Objects now: 7542.
+Memory consumption went from 357.7 MB to 351.0 MB.
+Total: 8.731700 ms (FindLiveObjects: 1.171700 ms CreateObjectMapping: 0.638300 ms MarkObjects: 4.958000 ms  DeleteObjects: 1.707100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (3.1 MB). Loaded Objects now: 7542.
+Memory consumption went from 355.1 MB to 352.0 MB.
+Total: 5.894900 ms (FindLiveObjects: 0.942700 ms CreateObjectMapping: 0.179000 ms MarkObjects: 4.187400 ms  DeleteObjects: 0.333900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.3483046Z
+  Time since last request: 234961.39417789998697 seconds.
+  importAddress: GUID: 727515523dc93474cbb7746cd5f412a7 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_01_s.tga - Importer: PreviewImporter
+Importing 'GUID: 727515523dc93474cbb7746cd5f412a7 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_01_s.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 727515523dc93474cbb7746cd5f412a7' -> (Import Result ID: '30b01b2a8673ee539c8a93bd7ae5c420') in 0.074 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3d7b393780ac93b1d9928b19f9bb80d2 DependenciesID=0c282f8839eb541e94b4182b257521e9 StaticDependenciesID=c6a8b98f58cb940fc27af41dc2aeb529 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.4377446Z
+  Time since last request: 0.0004597 seconds.
+  importAddress: GUID: 78b2f6df4ff4d8d4cbc2526ed25e9049 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_04_s.tga - Importer: PreviewImporter
+Importing 'GUID: 78b2f6df4ff4d8d4cbc2526ed25e9049 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_04_s.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 78b2f6df4ff4d8d4cbc2526ed25e9049' -> (Import Result ID: '5882a64439cd10822d1770eeaf93c621') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=51f6e9c160edaf3294e194af8b6f7ff9 DependenciesID=7e5fccacac4ed1ac001fe81cdfe32bb2 StaticDependenciesID=0714265961f6887ec3272f63717feb44 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.4589657Z
+  Time since last request: 0.0005294 seconds.
+  importAddress: GUID: 5183b7ef5fa2ba144b0776eb38d8a9ce - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_06_n.tga - Importer: PreviewImporter
+Importing 'GUID: 5183b7ef5fa2ba144b0776eb38d8a9ce - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_06_n.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5183b7ef5fa2ba144b0776eb38d8a9ce' -> (Import Result ID: 'dbae8398ac17c4a344ce0da7300fd41e') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=68107e4f6224ec7e8ce545a2feae482e DependenciesID=3430bdd3cd5e434a6a6088934e67dbd4 StaticDependenciesID=96d3d80043cbad1d43c6d6544b4cb287 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.4933812Z
+  Time since last request: 0.0000318 seconds.
+  importAddress: GUID: 69a754a8c7a4cf6488e63de2d186d0b1 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_11_n.tga - Importer: PreviewImporter
+Importing 'GUID: 69a754a8c7a4cf6488e63de2d186d0b1 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_11_n.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 69a754a8c7a4cf6488e63de2d186d0b1' -> (Import Result ID: '3dc61f0983476e23c32c584912ab4ec8') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a060e05d0ed1a60118d7357bfced59da DependenciesID=9f419aaf4712d740c73f7469a0083339 StaticDependenciesID=8714ee0bb48a38ad7a2e4a25706ed197 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.5121584Z
+  Time since last request: 0.0004935 seconds.
+  importAddress: GUID: d01bfef8410e7824a85ae141a975069a - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_03_n.tga - Importer: PreviewImporter
+Importing 'GUID: d01bfef8410e7824a85ae141a975069a - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_03_n.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d01bfef8410e7824a85ae141a975069a' -> (Import Result ID: '0ee14f42863b8f90180fa336ddfb8251') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=634310a9cb38303f888929e79de0621b DependenciesID=182fe1f1985bf8eeef00cd7d7d27d919 StaticDependenciesID=02e0849d999b8c75bb046eff5edc2824 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.5301706Z
+  Time since last request: 0.0004657 seconds.
+  importAddress: GUID: d9b6facf3ae30f742bc66ad4a4aab8b0 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_05_n.tga - Importer: PreviewImporter
+Importing 'GUID: d9b6facf3ae30f742bc66ad4a4aab8b0 - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_05_n.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d9b6facf3ae30f742bc66ad4a4aab8b0' -> (Import Result ID: 'b7a9de8977c32dfb4a44f0eeb10c35d4') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=09dc42188312ee68967eb5df2d032e24 DependenciesID=90c24a91e849044168c355a25b2bbc36 StaticDependenciesID=7c0a346c254d33ba7d0ce2e8420c4d03 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:04.5493745Z
+  Time since last request: 0.0019177 seconds.
+  importAddress: GUID: bca4fedb5a424e040ba3f05ca9fca1fe - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_03_s.tga - Importer: PreviewImporter
+Importing 'GUID: bca4fedb5a424e040ba3f05ca9fca1fe - Path: Assets/YughuesFreeSandMaterials/Textures/T_YFSM_03_s.tga - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: bca4fedb5a424e040ba3f05ca9fca1fe' -> (Import Result ID: 'd9e969774dd37153b7e2d68955388346') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b586cf99b7b0514d8af5568f91b79d3b DependenciesID=06e2c449e5d403f19fcaaff0f5f43dbc StaticDependenciesID=0cef1a953923b57eb058b6fda20073bf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:12.4164436Z
+  Time since last request: 7.8500936 seconds.
+  importAddress: GUID: b5ced793883eff9439dfb6d7848aead2 - Path: Assets/_Echo/Materials/Materials/M_YFSM_Sand02.mat - Importer: PreviewImporter
+Importing 'GUID: b5ced793883eff9439dfb6d7848aead2 - Path: Assets/_Echo/Materials/Materials/M_YFSM_Sand02.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: b5ced793883eff9439dfb6d7848aead2' -> (Import Result ID: 'b76af20812563104e1e0694c3bb57098') in 0.362 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=27f2c1ffd58b607c0f1572fd57f4b951 DependenciesID=f5391d2cf3b09ca44a68f6694794d755 StaticDependenciesID=e8ee137c2cf4932085eb9e190bb3f1be 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:12.7906538Z
+  Time since last request: 0.00002 seconds.
+  importAddress: GUID: 07a9a9609108e4b4caf4730f4f6e0761 - Path: Assets/_Echo/Materials/Materials/M_YFSM_Sand07.mat - Importer: PreviewImporter
+Importing 'GUID: 07a9a9609108e4b4caf4730f4f6e0761 - Path: Assets/_Echo/Materials/Materials/M_YFSM_Sand07.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 07a9a9609108e4b4caf4730f4f6e0761' -> (Import Result ID: '1097fa09b21930cdc0dba8fb0ab5dd58') in 0.028 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=967b9834ea2f38fcf6179fe4dd0fc27d DependenciesID=b528cf9a7ef3e39d7cd8102ac39c83bc StaticDependenciesID=ac06aa82e759110490e60e318a5d424c 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 7704.
+Memory consumption went from 373.9 MB to 370.9 MB.
+Total: 7.287800 ms (FindLiveObjects: 0.938600 ms CreateObjectMapping: 0.200200 ms MarkObjects: 5.528300 ms  DeleteObjects: 0.340000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (3.1 MB). Loaded Objects now: 7704.
+Memory consumption went from 375.9 MB to 372.8 MB.
+Total: 7.635600 ms (FindLiveObjects: 0.895700 ms CreateObjectMapping: 0.204500 ms MarkObjects: 5.729800 ms  DeleteObjects: 0.507700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:56.9211838Z
+  Time since last request: 44.091472 seconds.
+  importAddress: GUID: b5ced793883eff9439dfb6d7848aead2 - Path: Assets/YughuesFreeSandMaterials/Materials/M_YFSM_Sand02.mat - Importer: PreviewImporter
+Importing 'GUID: b5ced793883eff9439dfb6d7848aead2 - Path: Assets/YughuesFreeSandMaterials/Materials/M_YFSM_Sand02.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: b5ced793883eff9439dfb6d7848aead2' -> (Import Result ID: '6dafcff011a60339e1bff1de09d84004') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=27f2c1ffd58b607c0f1572fd57f4b951 DependenciesID=764629426955662c208574d6688c6897 StaticDependenciesID=e8ee137c2cf4932085eb9e190bb3f1be 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:56.9568129Z
+  Time since last request: 0.000226 seconds.
+  importAddress: GUID: 90b02265239ffbb42a9f884240dad27a - Path: Assets/YughuesFreeSandMaterials/Materials/M_YFSM_Sand08.mat - Importer: PreviewImporter
+Importing 'GUID: 90b02265239ffbb42a9f884240dad27a - Path: Assets/YughuesFreeSandMaterials/Materials/M_YFSM_Sand08.mat - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 90b02265239ffbb42a9f884240dad27a' -> (Import Result ID: '710b0e2c16de0fb4622ec9cb4e5e8bfd') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bee1d4e9635c23ba6c12cd7af80754b8 DependenciesID=d150a2f763e2233d6b67345dd77c9b75 StaticDependenciesID=7953eda9069a481665aabc00433df985 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:49:58.5428462Z
+  Time since last request: 1.5624954 seconds.
+  importAddress: GUID: 4e6d44aacbc6782429c6c33e9c498499 - Path: Assets/YughuesFreeSandMaterials/Preview/Mesh_Sphere.fbx - Importer: PreviewImporter
+Importing 'GUID: 4e6d44aacbc6782429c6c33e9c498499 - Path: Assets/YughuesFreeSandMaterials/Preview/Mesh_Sphere.fbx - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 4e6d44aacbc6782429c6c33e9c498499' -> (Import Result ID: '71d06dc31a0390dc5395a4c1dd40eb09') in 0.161 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1d9a15f7e404c8631831b96961c4583 DependenciesID=3558f17c1520c36a40163b11bf72de4a StaticDependenciesID=842bf3e2cf369cc92a2d8fdf6fbd5080 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time of request: 2026-10-12T21:51:01.6726407Z
+  Time since last request: 62.9559107 seconds.
+  importAddress: GUID: 23b45e9506a0f9d42a3d6f7ee2f740c9 - Path: Assets/YughuesFreeSandMaterials/Preview/Sc_Preview/Lightmap-0_comp_light.exr - Importer: PreviewImporter
+Importing 'GUID: 23b45e9506a0f9d42a3d6f7ee2f740c9 - Path: Assets/YughuesFreeSandMaterials/Preview/Sc_Preview/Lightmap-0_comp_light.exr - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 23b45e9506a0f9d42a3d6f7ee2f740c9' -> (Import Result ID: '4d87bcb65dfc8b3970b07ef3c3a246f3') in 0.029 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=31c45839dfec268c8ed14d364cee14ae DependenciesID=aec56356810a6263340d1e82cb552bd5 StaticDependenciesID=561a2ac3e2f93ea194bcb47b6069dba6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
