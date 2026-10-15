@@ -69,6 +69,7 @@
     <Compile Include="Assets\_Echo\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\_Echo\Scripts\PlayerAnimation.cs" />
     <Compile Include="Assets\_Echo\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\_Echo\Scripts\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TutorialInfo\StyleSheets\ReadmeEditor.uss" />
